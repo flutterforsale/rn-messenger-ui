@@ -1,10 +1,15 @@
 # [React Native Messenger Facebook UI]
 
-<img src=".stories_shot.jpeg" width="45%" align="left" />
-<img src=".chat_shot.jpeg" width="45%" align="right" /> 
+<div>
+    <img src=".stories_shot.jpeg" width="45%" align="left" />
+    <img src=".chat_shot.jpeg" width="45%" align="right" /> 
+<div>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Clone & Install Dependencies
 
