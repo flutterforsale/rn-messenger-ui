@@ -1,13 +1,7 @@
 # [React Native Messenger Facebook UI]
 
-<h2 align="center">
-  <img src=".stories_shot.jpeg"/><br>
-  Stories screen
-</h2>
-<h2 align="center">
-  <img src=".chat_shot.jpeg"/><br>
-  Stories screen
-</h2>
+<img src=".stories_shot.jpeg" width="50%" align="left" />
+<img src=".chat_shot.jpeg" width="50%" align="left" />
 
 # Clone & Install Dependencies
 
