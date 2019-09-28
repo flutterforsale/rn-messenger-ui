@@ -5,6 +5,7 @@
   <img src=".chat_shot.jpeg" width="49%" align="right" /> 
 </p>
 
+#----------------------------------------------------
 # Clone & Install Dependencies
 
 1) `git clone https://github.com/flutterforsale/rn-messenger-ui.git`
