@@ -128,9 +128,10 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rnfbmessenger"
+        applicationId "com.flutterforsale.rnfbmessenger"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
+        missingDimensionStrategy "RNN.reactNativeVersion", "reactNative60"
         versionCode 1
         versionName "1.0"
     }
@@ -179,7 +180,9 @@ android {
 }
 
 dependencies {
+    implementation project(':react-native-navigation')
     implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation "androidx.appcompat:appcompat:1.0.0"
     implementation "com.facebook.react:react-native:+"  // From node_modules
 
     if (enableHermes) {
