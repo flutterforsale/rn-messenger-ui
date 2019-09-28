@@ -1,11 +1,9 @@
 # [React Native Messenger Facebook UI]
 
-<p align="center">
-  <img src=".stories_shot.jpeg" width="49%" align="left" />
-  <img src=".chat_shot.jpeg" width="49%" align="right" /> 
-</p>
+<img src=".stories_shot.jpeg" width="49%" hspace="20" align="left" />
+<img src=".chat_shot.jpeg" width="49%" hspace="20" align="left" /> 
+<br/><br/><br/><br/><br/>
 
-# ----------------------------------------------------
 # Clone & Install Dependencies
 
 1) `git clone https://github.com/flutterforsale/rn-messenger-ui.git`
