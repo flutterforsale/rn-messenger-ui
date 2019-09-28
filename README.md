@@ -9,8 +9,6 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 ## Clone & Install Dependencies
 
 1) `git clone https://github.com/flutterforsale/rn-messenger-ui.git`
