@@ -21,5 +21,9 @@
 ## Demo
 - [APK](https://drive.google.com/file/d/12aYyuaAHDJ4rh-byKjuKWfd7jYYS8Srl/view?usp=sharing)
 
-- [Donating](https://www.buymeacoffee.com/flutterforsale)
+- [Buy me a coffee](https://www.buymeacoffee.com/flutterforsale)
 
+
+## Flutter version
+
+- [FlutterFacebookMessengerUI](https://github.com/flutterforsale/flutter-messenger-ui)
