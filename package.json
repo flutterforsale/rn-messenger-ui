@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.1",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "native-base": "2.13.8",
     "react-native-gifted-chat": "0.10.1",
     "react-native-navigation": "3.2.0",
